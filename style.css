@@ -1,0 +1,41 @@
+.card {
+    width: 500px;
+    position: absolute;
+    top: 20%;
+    left: 25%;
+    background-color: white;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px;
+
+  }
+  
+  .drop-area {
+    border: 2px dashed black;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  img {
+    width: 100px;
+    height: auto;
+    margin-right: 10px;
+  }
+  
+  .close-btn {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 3px;
+    cursor: pointer;
+  }
